@@ -1,5 +1,5 @@
 ## Hello everyone 😄👋
-I'm Josué Ramírez, a passionate programmer who enjoys challenging myself with diverse projects and goals. To further my knowledge, I'm currently enrolled in online courses from Udemy. Right now, I'm focusing on creating React-based projects and exploring various styling libraries like Material UI, CSS, and Tailwind CSS.
+I am Josué Ramírez, a dedicated programmer who likes to test myself with different projects and goals. Currently, I am taking online courses from Udemy to expand my knowledge. My current focus is on developing React-based projects and learning about styling libraries such as Material UI, CSS, and Tailwind CSS.
 
 ### Languagues and Tools
 <img align="left" alt="vscode" width="40px" style="padding-right: 10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
